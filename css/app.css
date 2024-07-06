@@ -1,0 +1,16 @@
+.register_body{
+    background-image: url('../img/backgrond.jpg');
+    background-size: cover;
+}
+
+.login_body{
+    background-image: url('../img/login_background.jpg');
+    background-size: cover;
+}
+
+.edit-status:hover{
+    cursor: pointer;
+}
+.edit-priority:hover{
+    cursor: pointer;
+}
